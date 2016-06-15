@@ -1,6 +1,6 @@
 A face tracking foam missile launcher!
 
-Usage: obliterator.py <camera_id> <mode>
+Usage: obliterator.py [camera_id] [mode]
 
   camera_id:
     An integer representing which webcam is installed on Turret
